@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Transparent Login Form</title>
+	<link rel="stylesheet" type="text/css" href="log.css">
+</head>
+<body>
+	<div class="login-box">
+		<h1>Welcome</h1>
+		
+		
+        <div class="textbox">
+        	<i class="fa fa-user" aria-hidden="true"></i>
+			<input type="text" placeholder="username" name="" value="">
+		</div>
+		<div class="textbox">
+			<i class="fa fa-lock" aria-hidden="true"></i>
+			<input type="password" placeholder="Password" value="" name="">
+		</div>
+
+		<input class="btn" type="button" name="submit" value="Sign In">
+	</div>
+
+</body>
+</html>

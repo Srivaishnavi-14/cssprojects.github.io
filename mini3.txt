@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="mini33.css">
+	<title>Responsive gallery</title>
+</head>
+
+<body>
+	<div class="head">
+		<h1>Responsive Image Gallery</h1>
+	</div>
+<div class="main">
+<div class="column">
+	<img src="images.jpg"      style="width: 100%">
+	<img src="nature.jpg"      style="width: 100%">
+	<img src="paris.jpg"       style="width: 100%">
+	<img src="rocks.jpg"       style="width:100%">
+	<img src="underwater.jpg"  style="width:100%">
+	<img src="wedding.jpg"     style="width:100%">
+</div>	
+<div class="column">
+	<img src="rocks.jpg"      style="width: 100%">
+	<img src="underwater.jpg" style="width: 100%">
+	<img src="wedding.jpg"    style="width: 100%">
+	<img src="images.jpg"     style="width:100%">
+	<img src="nature.jpg"     style="width:100%">
+	<img src="paris.jpg"      style="width:100%">
+	
+</div>
+<div class="column">
+	<img src="rocks.jpg"         style="width: 100%">
+	<img src="nature.jpg"        style="width: 100%">
+	<img src="images.jpg"        style="width: 100%">
+	<img src="paris.jpg"          style="width:100%">
+	<img src="underwater.jpg"     style="width:100%">
+	<img src="wedding.jpg"        style="width:100%">
+	
+</div>
+<div class="column">
+		<img src="underwater.jpg"      style="width: 100%">
+	<img src="nature.jpg" style="width: 100%">
+	<img src="wedding.jpg"    style="width: 100%">
+	<img src="paris.jpg"     style="width:100%">
+	<img src="rocks.jpg"     style="width:100%">
+	<img src="images.jpg"      style="width:100%">
+</div>
+</div>
+</body>
+</html>

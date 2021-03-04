@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mini project 1</title>
+	<link rel="stylesheet" type="text/css" href="sty.css">
+</head>
+<body>
+<h1 id=h1><ins>Border</ins></h1>
+<h2 id=head>Border property allows you to specify the style,width and color of an element border.</h2>
+	<h2 id=ele>I'm border-top.</h2>
+	<h2 id=ele2>I'm border-right</h2>
+	<h2 id=bot>I'm border bottom</h2>
+    <h2 id=ele3>I'm border-left</h2>
+    <h2 id=ele4>I'm all sides border</h2>
+    <h2 id=ele5>I'm mixed border.</h2>
+    <h2 id=ele6>I'm different border width</h2>
+    <h2 id=ele7>I'm different color border.</h2>
+    <h2 id=ele8>I'm rounded border.</h2>
+
+ <h1 id=h><ins>Padding</ins></h1> 
+ <div id=padd>
+ 	<p id=p><b>Padding property is used to generate space between element's content and any defined borders.</b></p>
+ 	<div id=p1>I'm padding-top.</div><br>
+ 	<div id=p2>I'm padding-right i.e,right padding(space) of an element.
+ 	</div><br>
+ 	<h4 id=p3>I'm padding-bottom.</h4><br>
+ 	<h4 id=p4>I'm padding-left.</h4><br>
+
+</div>  
+<br>
+<h1><ins>Margin</ins></h1>
+	<br>
+<div id=mar>
+	<h4 id=mm>Margin property is used to create space around elements which is outside of any defined borders.</h4>
+	<br>
+	<div id=m1>I'm margin-top.</div>
+	<div id=m2>I'm margin-right</div>
+	<div id=m3>I'm margin-bottom.</div><br>
+	<div id=m4>I'm margin-left</div>
+</div>
+<h1><ins>Box Sizing</ins></h1>
+<br><br><br>
+<div id=box>
+	<div id=box1><h3>I'm content box.</h3>
+		<p><i>Box-Sizing property allows us<br> to include the padding and border in
+		an<br> element's total width and height.</i></p></div>
+<br><br><br>
+<br><br>
+	<div id=box2><h3>I'm Border box.</h3>
+	<p><i>Box-Sizing property allows us<br> to include the padding and<br> border
+	in an element's total <br>width and height.	</i></p>
+</div>
+
+</div>
+</body>
+</html>

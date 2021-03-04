@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.head{
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 7px;
+}
+ .main{
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	padding: 0 4px;
+ }
+ .column{
+ 	flex:25%;
+ 	max-width: 25%;
+ 	padding: 3px 3px;
+ }
+
+ @media  screen and (max-width: 800px){
+ 	.column{
+ 		flex: 50%;
+ 		max-width: 50%;
+ 	}
+ }
+
+ @media screen and (max-width: 600px){
+ 	.column{
+ 		flex: 100%;
+ 		max-width:100%;
+ 	}
+ }
+
